@@ -8,6 +8,7 @@ I spend an hour or so reading different articles and research documents everyday
 
 ## Distributed Systems
 
+- [Chaos Engineering](http://www.oreilly.com/webops-perf/free/files/chaos-engineering.pdf)
 - [Redis Cluster Spec](https://redis.io/topics/cluster-spec)
 
 ## Programming

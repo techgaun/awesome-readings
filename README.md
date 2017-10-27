@@ -8,7 +8,9 @@ I spend an hour or so reading different articles and research documents everyday
 
 ## Distributed Systems
 
+- [Borg, Omega and Kubernetes - Lessons learned from three container-management systems over a decade](http://queue.acm.org/detail.cfm?id=2898444)
 - [Chaos Engineering](http://www.oreilly.com/webops-perf/free/files/chaos-engineering.pdf)
+- [Dynamo: Amazon’s Highly Available Key-value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 - [Redis Cluster Spec](https://redis.io/topics/cluster-spec)
 
 ## Programming

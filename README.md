@@ -3,8 +3,14 @@ List of Awesome Research Articles on Computer Science and Technology
 
 I spend an hour or so reading different articles and research documents everyday. This list is starting as an index of what I read on daily basis.
 
+- [Cryptocurrency](#cryptocurrency)
 - [Distributed Systems](#distributed-systems)
 - [Programming](#programming)
+
+## Cryptocurrency
+
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+- [The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments](https://lightning.network/lightning-network-paper.pdf)
 
 ## Distributed Systems
 

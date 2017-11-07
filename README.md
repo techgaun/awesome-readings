@@ -27,4 +27,5 @@ I spend an hour or so reading different articles and research documents everyday
 
 ## Programming
 
+- [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html)
 - [Some Were Meant For C](https://www.cl.cam.ac.uk/~srk31/research/papers/kell17some-preprint.pdf)

@@ -16,14 +16,17 @@ I spend an hour or so reading different articles and research documents everyday
 
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 - [Borg, Omega and Kubernetes - Lessons learned from three container-management systems over a decade](http://queue.acm.org/detail.cfm?id=2898444)
+- [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed)
 - [Chaos Engineering](http://www.oreilly.com/webops-perf/free/files/chaos-engineering.pdf)
 - [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36356.pdf)
 - [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
 - [Dynamo: Amazon’s Highly Available Key-value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+- [Impossibility of Distributed Consensus with One Faulty Process](http://macs.citadel.edu/rudolphg/csci604/ImpossibilityofConsensus.pdf)
 - [InterPlanetary File System (IPFS)](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)
 - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 - [Paxos Made Live - An Engineering Perspective](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 - [Redis Cluster Spec](https://redis.io/topics/cluster-spec)
+- [Time, Clocks, and the Ordering of Events in a Distributed System](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 
 ## Programming
 

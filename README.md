@@ -3,6 +3,8 @@ List of Awesome Research Articles on Computer Science and Technology
 
 I spend an hour or so reading different articles and research documents everyday. This list is starting as an index of what I read on daily basis.
 
+I recommend reading [this paper on how to read a paper](https://www.albany.edu/spatial/WebsiteFiles/ResearchAdvices/how-to-read-a-paper.pdf) first.
+
 - [Cryptocurrency](#cryptocurrency-and-blockchain)
 - [Distributed Systems](#distributed-systems)
 - [Programming](#programming)

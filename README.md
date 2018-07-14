@@ -18,7 +18,7 @@ I recommend reading [this paper on how to read a paper](https://www.albany.edu/s
 
 ## Database
 
-- [Dremel: Interactive Analysis of Web-Scale Datasets(https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
+- [Dremel: Interactive Analysis of Web-Scale Datasets](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
 
 ## Distributed Systems
 

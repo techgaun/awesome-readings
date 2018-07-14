@@ -6,6 +6,7 @@ I spend an hour or so reading different articles and research documents everyday
 I recommend reading [this paper on how to read a paper](https://www.albany.edu/spatial/WebsiteFiles/ResearchAdvices/how-to-read-a-paper.pdf) first.
 
 - [Cryptocurrency](#cryptocurrency-and-blockchain)
+- [Database](#database)
 - [Distributed Systems](#distributed-systems)
 - [Programming](#programming)
 
@@ -14,6 +15,10 @@ I recommend reading [this paper on how to read a paper](https://www.albany.edu/s
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 - [Blockchain in Internet of Things: Challenges and Solutions](https://arxiv.org/ftp/arxiv/papers/1608/1608.05187.pdf)
 - [The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments](https://lightning.network/lightning-network-paper.pdf)
+
+## Database
+
+- [Dremel: Interactive Analysis of Web-Scale Datasets(https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
 
 ## Distributed Systems
 

@@ -32,6 +32,7 @@ I recommend reading [this paper on how to read a paper](https://www.albany.edu/s
 - [Impossibility of Distributed Consensus with One Faulty Process](http://macs.citadel.edu/rudolphg/csci604/ImpossibilityofConsensus.pdf)
 - [InterPlanetary File System (IPFS)](https://github.com/ipfs/papers/raw/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf)
 - [In Search of an Understandable Consensus Algorithm - Raft](https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf)
+- [Learning About Distributed Systems](http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html)
 - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 - [Paxos Made Live - An Engineering Perspective](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 - [Redis Cluster Spec](https://redis.io/topics/cluster-spec)

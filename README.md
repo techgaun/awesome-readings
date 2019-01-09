@@ -5,10 +5,15 @@ I spend an hour or so reading different articles and research documents everyday
 
 I recommend reading [this paper on how to read a paper](https://www.albany.edu/spatial/WebsiteFiles/ResearchAdvices/how-to-read-a-paper.pdf) first.
 
+- [Computer Security](#computer-security)
 - [Cryptocurrency](#cryptocurrency-and-blockchain)
 - [Database](#database)
 - [Distributed Systems](#distributed-systems)
 - [Programming](#programming)
+
+## Computer Security
+
+- [Jump Over ASLR: Attacking Branch Predictors to Bypass ASLR](http://www.cs.ucr.edu/~nael/pubs/micro16.pdf)
 
 ## Cryptocurrency and Blockchain
 

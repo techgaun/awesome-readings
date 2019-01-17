@@ -13,6 +13,7 @@ I recommend reading [this paper on how to read a paper](https://www.albany.edu/s
 
 ## Computer Security
 
+- [Blocking-resistant communication through domain fronting](https://www.bamsoftware.com/papers/fronting/)
 - [Jump Over ASLR: Attacking Branch Predictors to Bypass ASLR](http://www.cs.ucr.edu/~nael/pubs/micro16.pdf)
 
 ## Cryptocurrency and Blockchain

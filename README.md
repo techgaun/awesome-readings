@@ -52,3 +52,4 @@ I recommend reading [this paper on how to read a paper](https://www.albany.edu/s
 - [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 - [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html)
 - [Some Were Meant For C](https://www.cl.cam.ac.uk/~srk31/research/papers/kell17some-preprint.pdf)
+- [UTC is enough for everyone ...right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)

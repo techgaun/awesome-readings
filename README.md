@@ -40,6 +40,7 @@ I recommend reading [this paper on how to read a paper](https://www.albany.edu/s
 - [In Search of an Understandable Consensus Algorithm - Raft](https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf)
 - [Learning About Distributed Systems](http://alvaro-videla.com/2015/12/learning-about-distributed-systems.html)
 - [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
+- [Partisan: Enabling Cloud-Scale Erlang Applications](https://arxiv.org/pdf/1802.02652.pdf)
 - [Paxos Made Live - An Engineering Perspective](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 - [Redis Cluster Spec](https://redis.io/topics/cluster-spec)
 - [Time, Clocks, and the Ordering of Events in a Distributed System](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)

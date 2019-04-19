@@ -54,3 +54,4 @@ I recommend reading [this paper on how to read a paper](https://www.albany.edu/s
 - [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html)
 - [Some Were Meant For C](https://www.cl.cam.ac.uk/~srk31/research/papers/kell17some-preprint.pdf)
 - [UTC is enough for everyone ...right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right)
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)

@@ -43,6 +43,7 @@ I recommend reading [this paper on how to read a paper](https://www.albany.edu/s
 - [Partisan: Enabling Cloud-Scale Erlang Applications](https://arxiv.org/pdf/1802.02652.pdf)
 - [Paxos Made Live - An Engineering Perspective](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 - [Redis Cluster Spec](https://redis.io/topics/cluster-spec)
+- [So, you want to trace your distributed system?](http://www.pdl.cmu.edu/PDL-FTP/SelfStar/CMU-PDL-14-102.pdf)
 - [Time, Clocks, and the Ordering of Events in a Distributed System](http://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 - [ZooKeeper’s atomic broadcast protocol: Theory and practice](http://www.tcs.hut.fi/Studies/T-79.5001/reports/2012-deSouzaMedeiros.pdf)
 
